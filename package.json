@@ -1,0 +1,32 @@
+{
+  "name": "leaflet-backbone-layer",
+  "version": "0.1.0",
+  "description": "Leaflet layer connected to Backbone Collection. The layer creates and refreshes markers whenever an item is added to the collection.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lightstream-company/leaflet-backbone-layer.git"
+  },
+  "keywords": [
+    "leaflet",
+    "layer",
+    "backbone",
+    "collection",
+    "view",
+    "marker"
+  ],
+  "author": "Jérôme Avoustin <jerome@rehia.fr>, Franck Ernewein",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lightstream-company/leaflet-backbone-layer/issues"
+  },
+  "homepage": "https://github.com/lightstream-company/leaflet-backbone-layer#readme",
+  "dependencies": {
+    "backbone": "^1.2.1",
+    "leaflet": "^0.7.3",
+    "lodash": "^3.10.0"
+  }
+}
