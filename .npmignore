@@ -1,0 +1,6 @@
+.editorconfig
+.gitignore
+.jshintrc
+karma.conf.js
+test/
+.idea/
