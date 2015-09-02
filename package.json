@@ -1,6 +1,6 @@
 {
   "name": "leaflet-backbone-layer",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Leaflet layer connected to Backbone Collection. The layer creates and refreshes markers whenever an item is added to the collection.",
   "main": "index.js",
   "scripts": {
